@@ -47,23 +47,6 @@ const LandingPage = () => {
         </Link>
       </div>
       <div className='w-[90%] md:w-[70%] h-[200px] bg-violet-950 m-auto flex flex-col justify-center items-center mb-[50px]'>
-        <div className='flex justify-evenly w-[100%] h-[200px] items-center footer'>
-          <a href='https://youtube.com' target='_blank'>
-            <FaYoutube className='footer-icons' />
-          </a>
-          <a href='https://telegram.com' target='_blank'>
-            <FaTelegramPlane className='footer-icons' />
-          </a>
-          <a href='https://twitter.com/SuiFrenia' target='_blank'>
-            <FaXTwitter className='footer-icons' />
-          </a>
-          <a
-            href='https://www.canva.com/design/DAGGtgs5Pfk/5W8HpCJuqk5XtVtCmrxGzA/edit'
-            target='_blank'
-          >
-            <IoDocumentText className='footer-icons' />
-          </a>
-        </div>
         <div className='text-[#fff131] text-lg'>
           <span className='flex justify-center items-center'>
             <FaRegCopyright className='mx-2' /> SuiFrenia 2024{' '}

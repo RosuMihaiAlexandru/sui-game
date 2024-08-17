@@ -6,7 +6,7 @@ import MapPage from './pages/MapPage';
 import Accessories from './pages/Accessories';
 import NFTs from './pages/NFTs';
 import BattleGround from './pages/BattleGround';
-import LandingPage from './pages/LandingPage';
+import LandingPage from './pages/LandingPage2';
 import MarketPlace from './pages/MarketPlace';
 import { Toaster } from 'react-hot-toast';
 
